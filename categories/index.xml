@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on LambdaHRO</title>
+    <link>https://lambdahro.github.io/categories/</link>
+    <description>Recent content in Categories on LambdaHRO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://lambdahro.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Termine</title>
+      <link>https://lambdahro.github.io/category/termine/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/category/termine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vorträge</title>
+      <link>https://lambdahro.github.io/category/vortr%C3%A4ge/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/category/vortr%C3%A4ge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
