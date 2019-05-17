@@ -6,10 +6,20 @@
     <description>Recent content in Termine on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lambdahro.github.io/category/termine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mailing-Liste</title>
+      <link>https://lambdahro.github.io/2019/05/17/mailing-liste/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2019/05/17/mailing-liste/</guid>
+      <description>Es gibt eine Mailing-Liste Wir haben eine Mailing-Liste eingerichtet, für die man sich eintragen kann. Einfach eine E-Mail mit dem Inhalt subscribe ml-lambdahro-de an die Adresse majordomo at lambdahro.de schicken.
+Das Eintragen in die Liste erfolgt moderiert, es kann also ein wenig dauern, bis man freigeschaltet wird.</description>
+    </item>
     
     <item>
       <title>Willkommen bei LambdaHRO!</title>
