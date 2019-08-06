@@ -6,10 +6,21 @@
     <description>Recent content in Posts on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lambdahro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Treffen am 08.08.2019 : Klönschnack</title>
+      <link>https://lambdahro.github.io/2019/08/06/treffen-am-08.08.2019-kl%C3%B6nschnack/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2019/08/06/treffen-am-08.08.2019-kl%C3%B6nschnack/</guid>
+      <description>Wir treffen uns am 08.08.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Diesmal gibt es keinen Vortrag. Wir treffen uns in lockerer Runde und unterhalten uns generell über das Thema Funktionale Programmierung im Alltag und was uns sonst noch so in den Sinn kommt.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.</description>
+    </item>
     
     <item>
       <title>Treffen am 11.07.2019 : Funktionale Programmierung mit Javascript</title>
