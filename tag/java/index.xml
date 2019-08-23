@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java on LambdaHRO</title>
+    <link>https://lambdahro.github.io/tag/java/</link>
+    <description>Recent content in java on LambdaHRO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lambdahro.github.io/tag/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Treffen am 12.09.2019 : Spring WebFlux</title>
+      <link>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-spring-webflux/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-spring-webflux/</guid>
+      <description>Wir treffen uns am 12.09.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Thomas demonstriert die Entwicklung eines einfachen Web-Service mit Spring WebFlux unter Berücksichtigung funktionaler Programmierprinzipien.
+Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.
+Sollte die Tür verschlossen sein, dann einfach klingeln.</description>
+    </item>
+    
+  </channel>
+</rss>
