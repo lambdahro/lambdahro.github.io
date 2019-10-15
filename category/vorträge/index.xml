@@ -6,10 +6,23 @@
     <description>Recent content in Vorträge on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lambdahro.github.io/category/vortr%C3%A4ge/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Treffen am 14.11.2019 : Reactor und Spring WebFlux</title>
+      <link>https://lambdahro.github.io/2019/10/15/treffen-am-14.11.2019-reactor-und-spring-webflux/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2019/10/15/treffen-am-14.11.2019-reactor-und-spring-webflux/</guid>
+      <description>Wir treffen uns am 14.11.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Thomas demonstriert die Entwicklung eines einfachen Web-Service mit Reactor und Spring WebFlux unter Berücksichtigung funktionaler Programmierprinzipien.
+Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.
+Sollte die Tür verschlossen sein, dann einfach klingeln.</description>
+    </item>
     
     <item>
       <title>Treffen am 12.09.2019 : Spring WebFlux</title>
@@ -17,7 +30,7 @@
       <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-spring-webflux/</guid>
-      <description>Wir treffen uns am 12.09.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+      <description>Der Vortrag fällt leider aus! Wir treffen uns am 12.09.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
 Ablauf Thomas demonstriert die Entwicklung eines einfachen Web-Service mit Spring WebFlux unter Berücksichtigung funktionaler Programmierprinzipien.
 Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
 Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.

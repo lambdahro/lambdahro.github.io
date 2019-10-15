@@ -10,57 +10,72 @@
   
   <url>
     <loc>https://lambdahro.github.io/categories/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/tag/java/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/tag/orga/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/posts/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/tags/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/category/termine/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-spring-webflux/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+    <loc>https://lambdahro.github.io/2019/10/15/treffen-am-14.11.2019-reactor-und-spring-webflux/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/category/vortr%C3%A4ge/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lambdahro.github.io/tag/java/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lambdahro.github.io/tag/orga/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-spring-webflux/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -78,16 +93,17 @@
   </url>
   
   <url>
-    <loc>https://lambdahro.github.io/2019/05/31/treffen-am-13.06.2019-fp-warum-eigentlich/</loc>
+    <loc>https://lambdahro.github.io/tag/scala/</loc>
     <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lambdahro.github.io/tag/scala/</loc>
+    <loc>https://lambdahro.github.io/2019/05/31/treffen-am-13.06.2019-fp-warum-eigentlich/</loc>
     <lastmod>2019-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
