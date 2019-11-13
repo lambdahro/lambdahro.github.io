@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LambdaHRO</title>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>java</title>
-      <link>https://lambdahro.github.io/tag/java/</link>
+      <title>http</title>
+      <link>https://lambdahro.github.io/tag/http/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdahro.github.io/tag/java/</guid>
+      <guid>https://lambdahro.github.io/tag/http/</guid>
       <description></description>
     </item>
     
@@ -32,9 +32,18 @@
     <item>
       <title>scala</title>
       <link>https://lambdahro.github.io/tag/scala/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lambdahro.github.io/tag/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://lambdahro.github.io/tag/java/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/tag/java/</guid>
       <description></description>
     </item>
     

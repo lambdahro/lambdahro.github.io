@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vorträge on LambdaHRO</title>
@@ -12,24 +12,22 @@
     
     
     <item>
-      <title>Treffen am 14.11.2019 : Reactor und Spring WebFlux</title>
-      <link>https://lambdahro.github.io/2019/10/15/treffen-am-14.11.2019-reactor-und-spring-webflux/</link>
+      <title>Treffen am 14.11.2019 : Pure HTTP APIs in Scala</title>
+      <link>https://lambdahro.github.io/2019/10/15/treffen-am-14.11.2019-pure-http-apis-in-scala/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdahro.github.io/2019/10/15/treffen-am-14.11.2019-reactor-und-spring-webflux/</guid>
+      <guid>https://lambdahro.github.io/2019/10/15/treffen-am-14.11.2019-pure-http-apis-in-scala/</guid>
       <description>Wir treffen uns am 14.11.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
-Ablauf Thomas demonstriert die Entwicklung eines einfachen Web-Service mit Reactor und Spring WebFlux unter Berücksichtigung funktionaler Programmierprinzipien.
-Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
-Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.
-Sollte die Tür verschlossen sein, dann einfach klingeln.</description>
+Ablauf Jens trägt anläßlich der Fertigstellung seines Buches Pure functional HTTP APIs in Scala etwas über die pure funktionale Programmierung in diesem Bereich vor. Speziell geht es um Herausforderungen, aber auch um teils überraschende Auswirkungen des genannten Paradigmas auf die zu programmierende Anwendung.
+Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.</description>
     </item>
     
     <item>
-      <title>Treffen am 12.09.2019 : Spring WebFlux</title>
-      <link>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-spring-webflux/</link>
+      <title>Treffen am 12.09.2019 : Der Vortrag fällt leider aus.</title>
+      <link>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-der-vortrag-f%C3%A4llt-leider-aus./</link>
       <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-spring-webflux/</guid>
+      <guid>https://lambdahro.github.io/2019/08/23/treffen-am-12.09.2019-der-vortrag-f%C3%A4llt-leider-aus./</guid>
       <description>Der Vortrag fällt leider aus! Wir treffen uns am 12.09.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
 Ablauf Thomas demonstriert die Entwicklung eines einfachen Web-Service mit Spring WebFlux unter Berücksichtigung funktionaler Programmierprinzipien.
 Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
