@@ -6,10 +6,22 @@
     <description>Recent content in Posts on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lambdahro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Treffen am 12.12.2019 : Mehr Sicherheit durch Refined Types</title>
+      <link>https://lambdahro.github.io/2019/12/06/treffen-am-12.12.2019-mehr-sicherheit-durch-refined-types/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2019/12/06/treffen-am-12.12.2019-mehr-sicherheit-durch-refined-types/</guid>
+      <description>Wir treffen uns am 12.12.2019 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Es gibt einen Vortrag mit dem Titel &amp;ldquo;Mehr Sicherheit durch Refined Types&amp;rdquo;, der kurz umreißt was das eigentlich ist und anschließend anhand von Beispielen Anwendungsfälle aufzeigt, die von deren Einsatz profitieren.
+Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.</description>
+    </item>
     
     <item>
       <title>Treffen am 14.11.2019 : Pure HTTP APIs in Scala</title>
