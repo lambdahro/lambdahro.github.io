@@ -17,24 +17,14 @@
       
       <guid>https://lambdahro.github.io/about/</guid>
       
-        <description>
-
-&lt;h1 id=&#34;über-uns&#34;&gt;Über uns&lt;/h1&gt;
-
+        <description>&lt;h1 id=&#34;ber-uns&#34;&gt;Über uns&lt;/h1&gt;
 &lt;p&gt;LambdaHRO (λHRO) wurde gegründet mit dem Ziel den Austausch zu den Themen Softwareentwicklung und Informatik mit Fokus auf die funktionale Programmierung zu ermöglichen.&lt;/p&gt;
-
 &lt;h2 id=&#34;termine-und-themen&#34;&gt;Termine und Themen&lt;/h2&gt;
-
 &lt;p&gt;Wir versuchen uns jeweils den zweiten Donnerstag im Monat ab 18:00 Uhr zu treffen. Einen festen Ort gibt es derzeit noch nicht.&lt;/p&gt;
-
-&lt;p&gt;Es gibt eine Mailing-Liste, für die man sich &lt;a href=&#34;mailto:majordomo@lambdahro.de?subject=subscribe&amp;body=subscribe%20ml-lambdahro-de&#34;&gt;eintragen&lt;/a&gt; kann. Einfach eine E-Mail mit dem Inhalt &lt;code&gt;subscribe ml-lambdahro-de&lt;/code&gt; an die Adresse &lt;code&gt;majordomo at lambdahro.de&lt;/code&gt; schicken. Auf der Liste werden Themen und Termine diskutiert. Nach der Anmeldung solltet ihr eine E-Mail erhalten, die um nochmalige Bestätigung bittet.&lt;/p&gt;
-
+&lt;p&gt;Es gibt eine Mailing-Liste, für die man sich &lt;!-- raw HTML omitted --&gt;eintragen&lt;!-- raw HTML omitted --&gt; kann. Einfach eine E-Mail mit dem Inhalt &lt;code&gt;subscribe ml-lambdahro-de&lt;/code&gt; an die Adresse &lt;code&gt;majordomo at lambdahro.de&lt;/code&gt; schicken. Auf der Liste werden Themen und Termine diskutiert. Nach der Anmeldung solltet ihr eine E-Mail erhalten, die um nochmalige Bestätigung bittet.&lt;/p&gt;
 &lt;p&gt;Zusätzlich verwenden wir (noch) &lt;a href=&#34;https://github.com/lambdahro/organisation/issues&#34;&gt;GitHub&lt;/a&gt; zur Organisation von Themenvorschlägen und Terminen.&lt;/p&gt;
-
 &lt;p&gt;Geplante Termine werden auf dieser Webseite und im Repository veröffentlicht.&lt;/p&gt;
-
 &lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
-
 &lt;p&gt;Für alle Treffen und auch die Kommunikation auf GitHub gilt der
 &lt;a href=&#34;https://berlincodeofconduct.org/de/&#34;&gt;Berlin Code of Conduct&lt;/a&gt;.&lt;/p&gt;
 </description>
