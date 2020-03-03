@@ -6,10 +6,22 @@
     <description>Recent content in orga on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lambdahro.github.io/tag/orga/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Treffen am 12.03.2020 : Funktionaler Klönschnack</title>
+      <link>https://lambdahro.github.io/2020/03/03/treffen-am-12.03.2020-funktionaler-kl%C3%B6nschnack/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2020/03/03/treffen-am-12.03.2020-funktionaler-kl%C3%B6nschnack/</guid>
+      <description>Wir treffen uns am 12.03.2020 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Diesmal gibt es keinen Vortrag. Wir treffen uns in lockerer Runde und unterhalten uns generell über das Thema Funktionale Programmierung im Alltag und was uns sonst noch so in den Sinn kommt.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.
+Sollte die Tür verschlossen sein, dann einfach klingeln.</description>
+    </item>
     
     <item>
       <title>Treffen am 12.12.2019 : Mehr Sicherheit durch Refined Types</title>
