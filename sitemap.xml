@@ -9,42 +9,63 @@
   </url>
   
   <url>
-    <loc>https://lambdahro.github.io/2020/03/20/aussetzen-direkter-treffen-wegen-covid-19/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <loc>https://lambdahro.github.io/categories/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lambdahro.github.io/categories/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <loc>https://lambdahro.github.io/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/tag/orga/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/posts/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/tags/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/category/termine/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/2021/03/06/treffen-am-11.03.2021-higher-kinded-data-types/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/category/vortr%C3%A4ge/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/2020/03/20/aussetzen-direkter-treffen-wegen-covid-19/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,13 +94,6 @@
   
   <url>
     <loc>https://lambdahro.github.io/2019/12/06/treffen-am-12.12.2019-mehr-sicherheit-durch-refined-types/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lambdahro.github.io/category/vortr%C3%A4ge/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -137,13 +151,6 @@
   <url>
     <loc>https://lambdahro.github.io/2019/05/17/mailing-liste/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lambdahro.github.io/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

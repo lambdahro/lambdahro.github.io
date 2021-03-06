@@ -6,10 +6,17 @@
     <description>Recent content in Posts on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://lambdahro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treffen am 11.03.2021 : Higher Kinded Data Types</title>
+      <link>https://lambdahro.github.io/2021/03/06/treffen-am-11.03.2021-higher-kinded-data-types/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2021/03/06/treffen-am-11.03.2021-higher-kinded-data-types/</guid>
+      <description>Am 11.03.2021 um 18:00 Uhr treffen wir uns virtuell, nachdem wir uns vor einem Jahr das letzte Mal in Persona trafen.
+Ablauf Es gibt einen kurzen Vortrag zum Thema &amp;ldquo;Higher Kinded Data Types&amp;rdquo; und anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
+Zum Ort Wir treffen uns virtuell, die genaue URL wird über die Mailing-Liste bekannt gegeben.</description>
+    </item>
     
     <item>
       <title>Aussetzen direkter Treffen wegen COVID-19</title>
