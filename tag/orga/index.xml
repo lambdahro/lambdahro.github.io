@@ -6,7 +6,19 @@
     <description>Recent content in orga on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tag/orga/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tag/orga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treffen am 13.05.2021 : Funktionale Zufallszahlen</title>
+      <link>https://lambdahro.github.io/2021/05/03/treffen-am-13.05.2021-funktionale-zufallszahlen/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2021/05/03/treffen-am-13.05.2021-funktionale-zufallszahlen/</guid>
+      <description>Am 13.05.2021 um 18:00 Uhr treffen wir uns virtuell, nachdem wir uns vor einem Jahr das letzte Mal in Persona trafen.
+Ablauf Es gibt einen kurzen Vortrag zum Thema &amp;ldquo;Funktionale Zufallszahlen&amp;rdquo; und anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
+Zum Ort Wir treffen uns virtuell, die genaue URL wird über die Mailing-Liste bekannt gegeben.
+Material Die Folien zum Vortrag gibt es direkt zum Herunterladen.</description>
+    </item>
+    
     <item>
       <title>Treffen am 11.03.2021 : Higher Kinded Data Types</title>
       <link>https://lambdahro.github.io/2021/03/06/treffen-am-11.03.2021-higher-kinded-data-types/</link>
