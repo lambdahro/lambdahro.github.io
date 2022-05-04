@@ -6,13 +6,31 @@
     <description>Recent content in Tags on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>opaque types</title>
+      <link>https://lambdahro.github.io/tag/opaque-types/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/tag/opaque-types/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>orga</title>
       <link>https://lambdahro.github.io/tag/orga/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://lambdahro.github.io/tag/orga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scala</title>
+      <link>https://lambdahro.github.io/tag/scala/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/tag/scala/</guid>
       <description></description>
     </item>
     
@@ -22,15 +40,6 @@
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lambdahro.github.io/tag/refined/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scala</title>
-      <link>https://lambdahro.github.io/tag/scala/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lambdahro.github.io/tag/scala/</guid>
       <description></description>
     </item>
     
