@@ -6,22 +6,31 @@
     <description>Recent content in Tags on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>orga</title>
+      <link>https://lambdahro.github.io/tag/orga/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/tag/orga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://lambdahro.github.io/tag/testing/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/tag/testing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>opaque types</title>
       <link>https://lambdahro.github.io/tag/opaque-types/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://lambdahro.github.io/tag/opaque-types/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>orga</title>
-      <link>https://lambdahro.github.io/tag/orga/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://lambdahro.github.io/tag/orga/</guid>
       <description></description>
     </item>
     

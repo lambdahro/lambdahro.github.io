@@ -10,34 +10,69 @@
   
   <url>
     <loc>https://lambdahro.github.io/categories/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lambdahro.github.io/tag/opaque-types/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/tag/orga/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lambdahro.github.io/posts/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/tags/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/category/termine/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/tag/testing/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/2022/06/03/treffen-am-09.06.2022-property-based-testing/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/category/vortr%C3%A4ge/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lambdahro.github.io/tag/opaque-types/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -51,28 +86,7 @@
   </url>
   
   <url>
-    <loc>https://lambdahro.github.io/tags/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lambdahro.github.io/category/termine/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://lambdahro.github.io/2022/05/04/treffen-am-12.05.2022-scala-3-opaque-types/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lambdahro.github.io/category/vortr%C3%A4ge/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>testing on LambdaHRO</title>
+    <link>https://lambdahro.github.io/tag/testing/</link>
+    <description>Recent content in testing on LambdaHRO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tag/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treffen am 09.06.2022 : Property Based Testing</title>
+      <link>https://lambdahro.github.io/2022/06/03/treffen-am-09.06.2022-property-based-testing/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2022/06/03/treffen-am-09.06.2022-property-based-testing/</guid>
+      <description>Wir treffen uns am 09.06.2022 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Es gibt eine Einführung in das Thema &amp;ldquo;Property Based Testing&amp;rdquo; (mit ScalaCheck).
+Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.
+Sollte die Tür verschlossen sein, dann einfach klingeln. Beim Eintreten den langen Flur bis zum Ende durchgehen und nicht die Treppe gleich hinter den Briefkästen rechts hochgehen.</description>
+    </item>
+    
+  </channel>
+</rss>
