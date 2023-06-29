@@ -6,7 +6,31 @@
     <description>Recent content in orga on LambdaHRO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tag/orga/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdahro.github.io/tag/orga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treffen am 06.07.2023 : Was ist eigentlich Darcs?</title>
+      <link>https://lambdahro.github.io/2023/06/29/treffen-am-06.07.2023-was-ist-eigentlich-darcs/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2023/06/29/treffen-am-06.07.2023-was-ist-eigentlich-darcs/</guid>
+      <description>Wir treffen uns am 06.07.2023 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Es gibt einen kleinen Vortrag über das DVCS darcs mit dem Fokus darauf, was sich vom Platzhirsch git unterscheidet. Anschließend gibt es wie immer Diskussion, Austausch und Planung weiterer Aktivitäten.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.
+Sollte die Tür verschlossen sein, dann einfach klingeln.</description>
+    </item>
+    
+    <item>
+      <title>Treffen am 11.05.2023 : Funktionaler Klönschnack</title>
+      <link>https://lambdahro.github.io/2023/03/27/treffen-am-11.05.2023-funktionaler-kl%C3%B6nschnack/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdahro.github.io/2023/03/27/treffen-am-11.05.2023-funktionaler-kl%C3%B6nschnack/</guid>
+      <description>Wir treffen uns am 11.05.2023 um 18 Uhr in den Räumen der Wegtam GmbH. Es gibt Getränke und Platz für 10 - 15 Leute.
+Ablauf Diesmal gibt es keinen Vortrag. Wir treffen uns in lockerer Runde und unterhalten uns generell über das Thema Funktionale Programmierung im Alltag und was uns sonst noch so in den Sinn kommt.
+Zum Ort Wir treffen uns bei der Wegtam GmbH, Neuer Markt 17.
+Sollte die Tür verschlossen sein, dann einfach klingeln.</description>
+    </item>
+    
     <item>
       <title>Treffen am 09.06.2022 : Property Based Testing</title>
       <link>https://lambdahro.github.io/2022/06/03/treffen-am-09.06.2022-property-based-testing/</link>
